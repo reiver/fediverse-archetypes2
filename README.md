@@ -89,7 +89,7 @@ Because of certain **archetypes** being able to be thought of as certain types o
 
 Here are some topics that have been seen on the Fediverse:
 
-## Computing
+### Computing
 
 * 3D printing
 * ActivityPub
@@ -146,7 +146,7 @@ Here are some topics that have been seen on the Fediverse:
 * vintage terminals
 * WordPress
 
-## Politics
+### Politics
 
 * archivism
 * censorship
@@ -155,12 +155,12 @@ Here are some topics that have been seen on the Fediverse:
 * libertarianism
 * local politics
 * privacy
+* regional politics
 * sexuality
 * socialism
 * social justice
-* world politics
 
-## Other
+### Other
 
 * anime
 * art
