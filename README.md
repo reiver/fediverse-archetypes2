@@ -198,3 +198,6 @@ Here are a list of roles (that weren't directly or indirectly included in a prev
 * CEO
 * CMO
 * CTO
+* VP of ?
+* Director of ?
+* 
