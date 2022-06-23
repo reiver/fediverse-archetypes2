@@ -2,7 +2,7 @@
 
 This is an analysis of the some of the **types** of people seen on the Fediverse.
 
-In this document, these **types** _of people_ are called **archetypes**.
+In this document, these “**types** _of people_” are called ‘**archetypes**’.
 
 This analysis is meant to be **descriptive**.
 I.e., it is just trying to list out what is there.
@@ -14,7 +14,7 @@ It is just **description** of what seems to be observed to be there.
 
 Note that this analysis is highly likely to be unrepresentative.
 
-A manual categorization was done of the follower-list and following-list of a number of accounts.
+It is a manual categorization of the accounts listed in the follower-list and following-list of a number of selected ‘seed’ accounts.
 
 ----
 
@@ -184,3 +184,17 @@ Here are some topics that have been seen on the Fediverse:
 * wilderness
 * vintage art
 * vintage toys
+
+## Attained Roles
+
+Some **archetypes** can be thought of _attained roles_.
+
+**Some of these are covered by the _topics_ that were previous mentioned.**
+Such as **software developer**, **UX designer**, etc.
+And won't be included in the follow list of roles.
+
+Here are a list of roles (that weren't directly or indirectly included in a previous list):
+
+* CEO
+* CMO
+* CTO
