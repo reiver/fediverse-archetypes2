@@ -121,6 +121,7 @@ Here are some topics that have been seen on the Fediverse:
 * mobile phones
 * NFT
 * open source software
+* permacomputing
 * podcasting
 * retro video games
 * RSS
