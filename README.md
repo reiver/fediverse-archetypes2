@@ -141,6 +141,7 @@ Here are some topics that have been seen on the Fediverse:
 * twtxt
 * unix
 * ux
+* uxn
 * video games
 * vintage computers
 * vintage video games
