@@ -97,6 +97,7 @@ Here are some topics that have been seen on the Fediverse:
 * blockchain
 * blogging
 * BSD
+* chip-8
 * computer terminals
 * cryptocurrencies
 * cryptography
