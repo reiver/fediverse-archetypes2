@@ -180,6 +180,7 @@ Here are some topics that have been seen on the Fediverse:
 * photography
 * psychology
 * sci-fi
+* solarpunk
 * street art
 * sunrises
 * sunsets
